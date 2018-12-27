@@ -1,0 +1,26 @@
+{
+  "name": "tki-float-keyboard",
+  "version": "0.0.1",
+  "description": "tki-float-keyboard",
+  "main": "components/tki-float-keyboard/tki-float-keyboard.vue",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/q310550690/tki-float-keyboard.git"
+  },
+  "keywords": [
+    "tikiui",
+    "tki-float-keyboard",
+    "uni-app",
+    "mpvue",
+    "keyboard"
+  ],
+  "author": "sxq",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/q310550690/tki-float-keyboard/issues"
+  },
+  "homepage": "https://github.com/q310550690/tki-float-keyboard#readme"
+}
