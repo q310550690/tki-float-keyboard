@@ -1,6 +1,8 @@
 # uni-app 浮动键盘
 ### 作者：诗小柒
 
+## 简介
+使用与H5、小程序、App端的浮动键盘，键盘包括三种类型，纯数字键盘、汽车键盘、还有全键盘，所有键盘都可以自定义按键类型的禁用转态，值得体验，不懂如何使用的请直接github打包下载运行
 
 ## 开始使用
 NPM 
@@ -11,7 +13,8 @@ GIT
 ```
 git clone https://github.com/q310550690/tki-float-keyboard 
 ```
-
+## 更新说明
++ 0.0.2 适配新版uni-app编译器(如果github上下载后使用新版HbuilderX1.7.1.20190320编译后无法启动请等待Dcloud更新即可)
 ### 1.引入组件
 ```javascript
 // template 使用
