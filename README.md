@@ -15,6 +15,7 @@ git clone https://github.com/q310550690/tki-float-keyboard
 ```
 ## 更新说明
 + 0.0.2 适配新版uni-app编译器(如果github上下载后使用新版HbuilderX1.7.1.20190320编译后无法启动请等待Dcloud更新即可)
+
 ### 1.引入组件
 ```javascript
 // template 使用
