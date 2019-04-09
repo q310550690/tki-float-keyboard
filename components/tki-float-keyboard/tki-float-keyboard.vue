@@ -245,7 +245,7 @@ export default {
 			that.keyShow = true
 			that.keyShowAni = true
 			setTimeout(() => {
-				uni.createSelectorQuery().select('._flkey-body').boundingClientRect(function (rect) {
+				uni.createSelectorQuery().in(that).select('._flkey-body').boundingClientRect(function (rect) {
 					that.$emit('show', rect)
 				}).exec()
 			}, 150);

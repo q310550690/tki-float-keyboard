@@ -1,6 +1,6 @@
 {
   "name": "tki-float-keyboard",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "tki-float-keyboard",
   "main": "components/tki-float-keyboard/tki-float-keyboard.vue",
   "scripts": {
