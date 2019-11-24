@@ -193,16 +193,16 @@ export default {
 		_keyInit() {
 			if (this.mode == 'keyboard') {
 				this.isUp = true
-				this._keyTypeWacth(this.keyType)
+				this._keyTypeWacth(this.type)
 				this._keySwUp()
 			}
 			if (this.mode == 'car') {
 				this.isUp = false
-				this._carTypeWacth(this.carType)
+				this._carTypeWacth(this.type)
 				this._keySwUp()
 			}
 			if (this.mode == 'number') {
-				this._numberTypeWacth(this.numberType)
+				this._numberTypeWacth(this.type)
 			}
 		},
 		_keySwUp(t) {
